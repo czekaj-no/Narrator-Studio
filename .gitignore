@@ -1,0 +1,20 @@
+#Local environment variables (paths, secrets, etc.)
+.env
+
+#Generated audio files
+*.mp3
+*.wav
+
+#Generated folders
+fragments/
+backgrounds/
+output/
+
+#Python virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+#IDE settings
+.idea/
+

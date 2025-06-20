@@ -1,5 +1,7 @@
 # 🎙️ Narrator Studio
 
+> 💻 Built with Python 3.11 · 🎙️ Edge TTS · 🎵 Pydub · 🎨 CustomTkinter
+
 **Narrator Studio** is a user-friendly voiceover tool — designed for Python 3.11 — that lets you convert written text into professional-sounding speech – with background music, customizable pauses, fade effects, and much more.
 
 ---

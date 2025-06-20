@@ -1,6 +1,6 @@
 # 🎙️ Narrator Studio
 
-**Narrator Studio** is a user-friendly voiceover tool that lets you convert written text into professional-sounding speech – with background music, customizable pauses, fade effects, and much more.
+**Narrator Studio** is a user-friendly voiceover tool — designed for Python 3.11 — that lets you convert written text into professional-sounding speech – with background music, customizable pauses, fade effects, and much more.
 
 ---
 
@@ -35,6 +35,10 @@ Narrator-Studio/
 ---
 
 ## ⚙️ Setup Instructions
+
+> ❗ Narrator Studio requires **Python 3.11**  
+> Other versions (e.g. 3.12) may not work due to compatibility with `pydub` and `edge-tts`.
+
 
 ### 1. Clone the repo
 
